@@ -1,4 +1,4 @@
-# Maven_movies_rantal_DA
+
 # Maven_Movies_Rental_DA
 Data analysis of movies CD/DVD rental (transactions) and inventory
 
@@ -30,7 +30,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-<img src="Code_Outputs/mysql_img.png" alt="mysql_img.png" width="300"/> &nbsp;
+<img src="outputs/mysql_img.png" alt="mysql_img.png" width="300"/> &nbsp;
 
 # Project Result
 [Click here to get full code](maven_movies_solve_code.sql)
