@@ -131,20 +131,20 @@ Highlight gaps in the inventory and optimize stock levels.
 
 23. "Can you list the movies that [FIRST_NAME] [LAST_NAME] has been part of, and how many are there in total?"
 
-<img src="Code_Outputs/NO_OF_FILMS_BY_ACTOR.png" alt="NO_OF_FILMS_BY_ACTOR.png" width="400"/> &nbsp;
+<img src="outputs/NO_OF_FILMS_BY_ACTOR.png" alt="NO_OF_FILMS_BY_ACTOR.png" width="400"/> &nbsp;
 
 24. “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
 
-<img src="Code_Outputs/ACTOR_ASSOCIATED_WITH_TITLE.png" alt="ACTOR_ASSOCIATED_WITH_TITLE.png" width="400"/> &nbsp;
+<img src="outputs/ACTOR_ASSOCIATED_WITH_TITLE.png" alt="ACTOR_ASSOCIATED_WITH_TITLE.png" width="400"/> &nbsp;
 
 25. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?” 
 
-<img src="Code_Outputs/FAV_ACTOR_APPEAR.png" alt="FAV_ACTOR_APPEAR.png" width="400"/> &nbsp;
+<img src="outputs/FAV_ACTOR_APPEAR.png" alt="FAV_ACTOR_APPEAR.png" width="400"/> &nbsp;
 
 26.“The Manager from Store 2 is working on expanding our film collection there. Could you pull a list of distinct titles and their descriptions, currently available in inventory at store 2?”
 
-<img src="Code_Outputs/COLLECTION_OF_STORE_2.png" alt="COLLECTION_OF_STORE_2.png" width="400"/> &nbsp;
+<img src="outputs/COLLECTION_OF_STORE_2.png" alt="COLLECTION_OF_STORE_2.png" width="400"/> &nbsp;
 
 27.  “We will be hosting a meeting with all of our staff and advisors soon. Could you pull one list of all staff and advisor names, and include a column noting whether they are a staff member or advisor? Thanks!”
 
-<img src="Code_Outputs/UNION.png" alt="UNION.png" width="400"/> &nbsp;
+<img src="outputs/UNION.png" alt="UNION.png" width="400"/> &nbsp;
